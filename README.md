@@ -1,0 +1,2 @@
+# Classifying-Countries-as-Developed-or-Developing-Using-a-Decision-Tree-Model.
+The project "Classifying Countries as Developed or Developing Using a Decision Tree Model" uses socio-economic factors like GDP, population density, and life expectancy to classify countries. A decision tree classifier is employed for its versatility with numerical and categorical data, achieving 84.44% accuracy in predictions​
